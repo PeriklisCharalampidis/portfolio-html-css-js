@@ -206,6 +206,10 @@ section {
   height: 2rem;
 }
 
+.experience-icon, .education-icon {
+  cursor: default;
+}
+
 /* Buttons */
 .btn-container {
   display: flex;
